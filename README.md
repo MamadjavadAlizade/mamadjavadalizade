@@ -4,7 +4,7 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm MohammadJavad Alizade</h1> -->
-<h3 align="center">A passionate Front-End Web Developer from Iran 🇮🇷</h3>
+<h3 align="center">A passionate Front-End Web Developer from Iran</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+jQuery;Living+in+Mazandaran%2C+Iran" alt="Typing SVG" />
@@ -33,11 +33,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamadjavadAlizade&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamadjavadAlizade&theme=tokyo-night&hide_border=true&hide_title=true&bg_color='#0d1117'" alt="activity graph" />
 </p>
 
 
@@ -45,7 +45,7 @@
 
 ### 📌 Featured Projects
 
-- [📁 UserAlert](https://github.com/MamadjavadAlizade/UserAlert)
+- [⚠️ UserAlert](https://github.com/MamadjavadAlizade/UserAlert)
 
 ---
 
