@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="streak stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="github stats" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="streak stats" />
 </p>
 <p align="center">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamadjavadAlizade&theme=tokyo-night&hide_border=true&hide_title=true&bg_color='#0d1117'" alt="activity graph" /> -->
