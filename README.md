@@ -34,25 +34,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=tokyonight" alt="streak stats" />
 </p>
-
----
-
-### 🔥 My Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamadjavadAlizade&theme=tokyo-night" alt="activity graph" />
 </p>
 
+
 ---
 
 ### 📌 Featured Projects
-
-<!-- Fill this with your top repos -->
 
 - [📁 UserAlert](https://github.com/MamadjavadAlizade/UserAlert)
 
@@ -60,10 +51,8 @@
 
 ### 📫 Contact Me
 
-<p align="left">
-  📧 Email: im.useram@gmail.com
-  <br>
-  📧 Email: mohammadjavadalizade88@gmail.com
-  <br>
-  📷 Instagram: mohammadjavad.alizade
-</p>
+
+- 📧 Email: **im.useram@gmail.com**
+- 📧 Email: **mohammadjavadalizade88@gmail.com**
+- 📷 Instagram: [mohammadjavad.alizade](https://www.instagram.com/mamadjavad.alizade/)
+
