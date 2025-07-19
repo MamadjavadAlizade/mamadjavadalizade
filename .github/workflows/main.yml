@@ -1,8 +1,7 @@
 name: Metrics
-
 on:
-  schedule: [{cron: "0 0 * * *"}]  # اجرای روزانه
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 0 * * *" # هر روز ساعت ۰۰:۰۰ UTC اجرا می‌شود
   workflow_dispatch:
 
 jobs:
@@ -11,24 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg  # 🔴 این خط SVG رو ذخیره می‌کنه
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          token: ${{ secrets.Profile }}
           user: mamadjavadalizade
-          template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tehran
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_stars: yes
-          plugin_followup: yes
-          plugin_lines: yes
-          plugin_traffic: yes
-
-      - name: Commit and Push metrics.svg
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add metrics.svg
-          git commit -m "Update metrics.svg" || echo "No changes to commit"
-          git push
