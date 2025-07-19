@@ -1,8 +1,9 @@
 name: Metrics
+
 on:
+  workflow_dispatch: # اجرا به صورت دستی
   schedule:
-    - cron: "0 0 * * *" # هر روز ساعت ۰۰:۰۰ UTC اجرا می‌شود
-  workflow_dispatch:
+    - cron: "0 0 * * *" # اجرای خودکار روزانه
 
 jobs:
   github-metrics:
@@ -10,7 +11,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # نام فایلی که خروجی SVG داخلش ذخیره میشه
           filename: metrics.svg
+
+          # توکن مخصوص دسترسی به API گیت‌هاب
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # یوزرنیم شما
           user: mamadjavadalizade
+
+          # بخش‌های پایه‌ای که نمایش داده میشه
           base: header, activity, community, repositories, metadata
+
+          # پلاگین‌های اضافه برای جذاب‌تر شدن خروجی
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_followup: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
