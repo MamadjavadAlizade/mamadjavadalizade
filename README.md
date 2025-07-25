@@ -53,7 +53,11 @@
 ### 📫 Contact Me
 
 
-- 📧 Email: **im.useram@gmail.com**
-- 📧 Email: **mohammadjavadalizade88@gmail.com**
-- 📷 Instagram: [mohammadjavad.alizade](https://www.instagram.com/mamadjavad.alizade/)
+<p align="left">
+  <a href="َim.useram@gmail.com"><img src="https://img.shields.io/badge/-Email (im.useram@gmail.com)-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br>
+  <a href="َmohammadjavadalizade88@gmail.com"><img src="https://img.shields.io/badge/-Email (mohammadjavadalizade88@gmail.com)-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br>
+  <a href="https://www.instagram.com/mamadjavad.alizade/"><img src="https://img.shields.io/badge/-Instagram (mamadjavad.alizade)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
