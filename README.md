@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="github stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MamadjavadAlizade&show_icons=true&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="github stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadjavadAlizade&theme=transparent&hide_border=true&text_color='#36bcf7'" alt="streak stats" />
 </p>
 <p align="center">
